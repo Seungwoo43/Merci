@@ -1,0 +1,8 @@
+pdfplumber
+PyPDF2
+pdfminer.six
+pytesseract
+pillow
+pdf2image
+opencv-python
+pymupdf

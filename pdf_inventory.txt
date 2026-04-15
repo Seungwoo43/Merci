@@ -1,0 +1,11 @@
+현재 /mnt/data에서 발견한 PDF 목록 (9개)
+
+/mnt/data/nss-적천수천미강독-2019.pdf
+/mnt/data/궁통보감.pdf
+/mnt/data/난강망 .pdf
+/mnt/data/연해자평.pdf
+/mnt/data/용신제요 (궁통보감).pdf
+/mnt/data/일주희기 조후론.pdf
+/mnt/data/자평진전.pdf
+/mnt/data/적천수직해.pdf
+/mnt/data/진소암 적천수.pdf
